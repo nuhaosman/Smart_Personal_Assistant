@@ -1,3 +1,5 @@
+Group Project!
+
 Smart Desktop Assistant – Python + LLM + Automation
 
 How to Setup:
