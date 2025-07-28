@@ -1,0 +1,4 @@
+tk
+openai
+pyautogui
+screen_brightness_control
